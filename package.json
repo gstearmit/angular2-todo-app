@@ -27,7 +27,7 @@
     "systemjs": "0.19.26",
     "todomvc-app-css": "^2.0.6",
     "todomvc-common": "^1.0.2",
-    "zone.js": "0.6.12"
+    "zone.js": "0.11.3"
   },
   "devDependencies": {
     "angular-cli": "1.0.0-beta.6",
